@@ -40,3 +40,8 @@ However, the project is working and was accepted in the exam with 28/30 points, 
  - Do not transmit the occupancy datastream from the microcontroller but calculate it in the dashboard based on the threshold value.
  - Execute data prediction, forecast based on the incoming data in Grafana.
  
+Some images of the finished project:
+
+- The assembled hw: ![hw](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/IMG_6689.jpg)
+- Visualization and queries in Influx Database: ![dashboard](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/influx%20dashboard.png) ![query](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/influx%20query.png)
+- Dashboard in Grafana: ![grafana1](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/grafana%20part%201.png) ![grafana2](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/grafana%20part%202.png)
