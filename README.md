@@ -38,5 +38,5 @@ I used the following sites for help and troubleshooting:
 However, the project is working and was accepted in the exam with 28/30 points, it can be further improved, for example with the following features:
  - Enable the changing of the threshold value remotely, from the dashboard or from the Python client.
  - Do not transmit the occupancy datastream from the microcontroller but calculate it in the dashboard based on the threshold value.
- - Execute data prediction, forecast based on the incoming data.
+ - Execute data prediction, forecast based on the incoming data in Grafana.
  
