@@ -21,12 +21,12 @@ For the development I used the following environments, softwares and services:
 
 For the application to work you need to go through the following steps:
 
-1. assemble the hardware in the following manner:
-2. run and export the software to the microcontroller
-3. start the mosquitto broker
-4. start running the mosquitto client in the Python file
-5. start the influxDB client
-6. you can check the logs and the visualisation on the InfluxDB and Grafana dashboards (I used the local IP addresses to showcase my project. 8086 for InfluxDB and 3000 for Grafana). Of course, you can use them connected to the internet for an online database.
+1. assemble the hardware in the following manner: ![mc layout](https://github.com/balintbujtor/IoT/blob/main/Project%20Images/mc_layout.png)
+3. run and export the software to the microcontroller
+4. start the mosquitto broker
+5. start running the mosquitto client in the Python file
+6. start the influxDB client
+7. you can check the logs and the visualisation on the InfluxDB and Grafana dashboards (I used the local IP addresses to showcase my project. 8086 for InfluxDB and 3000 for Grafana). Of course, you can use them connected to the internet for an online database.
 
 I used the following sites for help and troubleshooting:
  - [ESP32 Arduino Extension installation troubleshooting](https://randomnerdtutorials.com/esp32-troubleshooting-guide/)
